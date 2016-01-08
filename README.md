@@ -5,6 +5,10 @@ standard CSS rules which can then be handled by autoprefixer.
 
 _Not an exhaustive list of the compass mixins, just some common ones_
 
+## Install
+
+    npm install -g https://github.com/adam-h/sass-remove-compass-css3.git
+
 ## Usage
 
 Run it as a 'dry-run' (no files changed) on all sass files from your current path:
