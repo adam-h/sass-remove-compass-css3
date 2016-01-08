@@ -1,0 +1,20 @@
+{
+  "name": "sass-remove-compass-css3",
+  "version": "0.1.0",
+  "description": "Convert compass css3 mixins in sass files to standard syntax for autoprefixer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "sass-remove-compass-css3": "./index.js"
+  },
+  "dependencies": {
+    "glob": "^6.0.3",
+    "xregexp": "^3.0.0",
+    "yargs": "^3.31.0",
+    "chalk": "^1.1.1"
+  }
+}
